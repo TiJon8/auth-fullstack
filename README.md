@@ -71,7 +71,7 @@ npm run dev
 Так же необходимо запустить докер контейнеры для postgres и redis
 
 ```bash
-cd auth-client
+cd auth-server
 docker-compose up -d
 ```
 

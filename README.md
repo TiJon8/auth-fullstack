@@ -42,7 +42,7 @@ auth-app:
 ### Клонируем репозиторий
 
 ```bash
-git clone https://github.com/tijon/auth-fullstack.git
+git clone https://github.com/TiJon8/auth-fullstack.git
 cd auth-fullstack
 ```
 
